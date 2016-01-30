@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This website was created January 30-31 at a Software Carpentry workshop on the campus of University of Texas at Arlington in Arlington, TX.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a graduate student at the University of Texas at Arlington. I am currently working towards my Master's of Science in Industrial Engineering.
+
+This is my first attempt at making a website using Git and GitHub. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:nicholas.king@mavs.uta.edu)
